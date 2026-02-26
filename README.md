@@ -122,4 +122,4 @@ toric-rs/
 
 ## About
 
-Built by an embedded systems engineering student to demonstrate Rust proficiency and understanding of real-time QEC decoder design for fault-tolerant quantum computing.
+Built to demonstrate understanding of real-time QEC decoder design for fault-tolerant quantum computing.
